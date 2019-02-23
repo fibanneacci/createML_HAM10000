@@ -1,4 +1,4 @@
-// program which sorts images into 2 folders ("Benign" and "Malignant") for training/testing on CreateML
+// program which sorts images into 2 folders ("Benign" and "Malignant") for training/testing on Xcode Playgrounds CreateML
 // potential improvement: automatically perform 80-20 split
 
 #include <iostream>
