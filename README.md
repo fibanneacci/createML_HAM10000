@@ -2,4 +2,4 @@
 
 Built using Xcode.
 
-Dataset: [HAM10000 (ISIC) dataset](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery)
+Dataset: [HAM10000 (ISIC)](https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery)
