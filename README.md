@@ -1,6 +1,6 @@
 # createML_HAM10000
 
-Built using Xcode.
+Built using Xcode, C++, and Swift.
 
 C++ file sorts images into their respective folders (to fit CreateML's data preprocessing requirements).
 
